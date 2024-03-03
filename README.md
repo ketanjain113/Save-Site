@@ -27,7 +27,7 @@ Welcome to Save-Site, your go-to Chrome extension for seamless site saving! It s
 
 ## Screenshots
 
-![Save-Site Dashboard](https://example.com/saveit-dashboard.png)
+![Save-Site Dashboard](Preview.png)
 
 ## Feedback and Contributions
 
