@@ -1,6 +1,6 @@
 # Save-Site - Chrome Extension for Effortless Site Saving
 
-![Save-Site Dashboard](save.png)
+![Save-Site Dashboard](Save.png)
 
 ## Overview
 
