@@ -1,6 +1,6 @@
 # Save-Site - Chrome Extension for Effortless Site Saving
 
-<img src="[save.png](https://d29fhpw069ctt2.cloudfront.net/icon/image/50031/preview.svg)" align="left" />
+![Save-Site Dashboard](https://example.com/saveit-dashboard.png](https://d29fhpw069ctt2.cloudfront.net/icon/image/50031/preview.svg)
 
 ## Overview
 
