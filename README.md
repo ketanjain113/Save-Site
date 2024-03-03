@@ -1,6 +1,6 @@
 # Save-Site - Chrome Extension for Effortless Site Saving
 
-![Save-Site Logo](https://example.com/saveit-logo.png)
+![Save-Site Logo]([https://example.com/saveit-logo.png](https://d29fhpw069ctt2.cloudfront.net/icon/image/72393/preview.svg))
 
 ## Overview
 
