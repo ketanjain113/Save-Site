@@ -1,6 +1,6 @@
 # Save-Site - Chrome Extension for Effortless Site Saving
 
-<img src="save.png" align="right" />
+<img src="save.png" align="left" />
 
 ## Overview
 
